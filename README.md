@@ -102,13 +102,13 @@
 
 ## 📊 Статистика использования языков в наших проектах
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazvanieqqqq&layout=compact&theme=dark&hide=html,jupyter%20notebook,batchfile,powershell,shell)
+
 
 *Статистика основана на анализе наших публичных репозиториев.*
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazvanieqqqq&theme=dracula)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazvanieqqqq&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
